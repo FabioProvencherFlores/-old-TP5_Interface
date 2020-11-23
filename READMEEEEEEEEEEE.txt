@@ -2,7 +2,7 @@
 
 1 - Installer node.js depuis nodejs.org
 	1.1 - Accepter et installer 
-2 - Dans command prompt "nmp -v"
+2 - Dans command prompt "npm -v"
 	2.1 - 2e commande "npm install -g @angular/cli"
 	2.2 - Accepter ou refuser les trucs qui demandent
 3 - Installer VS Code
